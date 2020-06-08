@@ -19,6 +19,8 @@ sentences = []
 for i in sentence:
     for j in i:
         sentences.append(j)
+print("Hello World")
+print("Modifying")
     
 
 
